@@ -1,0 +1,2 @@
+# ReginaldBot
+Discord Bot
